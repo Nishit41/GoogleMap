@@ -1,0 +1,31 @@
+.Border{
+    width:5px
+}
+.MuiInputBase-fullWidth{
+    width:fit-content
+}
+.RememberMe-ForgotPassword{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    margin-bottom: 26px;
+    font-size: larger;
+    font-weight: 500;
+}
+
+#margin-top-button{
+  color: white;
+  height: 55px ;
+}
+#margin-top-button2{
+    color: white;
+border: 1px solid;
+border-radius: 5px ;
+}
+
+.Text{
+    
+    margin-left: 15px;
+    font-size: large;
+    font-weight: 600;
+}
