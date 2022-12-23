@@ -1,0 +1,30 @@
+/* .Table{
+    background-color: blue;
+    border: 2px solid red;
+    margin: auto;
+} */
+
+.white{
+    background: white;
+    text-align: center;
+    width: auto;
+    margin: 20vh 38vw;
+    border:2px solid;
+    color: crimson;
+    font-weight: 800;
+}
+.headcss{
+   
+}
+/* .margin-left{
+   margin-right: 5px;
+   background:green;
+   color: aliceblue;
+    /* border: 1px solid red; */
+/* }  */
+/* .Delete-Button{
+    background: red;
+    color: aliceblue;
+    /* border: 1px solid red; */
+/* }  */
+

@@ -1,4 +1,50 @@
-.SignUp-text{
-    font-size: larger;
+.SignUp-text {
+    font-size: xx-large;
+    font-weight: 300;
+    margin-left: 1vw;
+    display: flex;
+    justify-content: space-between;
+}
+.img-decor{
+    margin-right: 1vw;
+
+}
+
+.signuptext {
+    font-size: large;
+    font-weight: 600;
+    margin-top: 4px;
+    
+}
+.signup-text-decor{
     font-weight: 400;
+
+}
+.LastNameText{
+    /* padding: 2px; */
+    font-size: large;
+font-weight: 600;
+margin-top: 4px;
+}
+.signup-text-Para{
+    font-size: x-large;
+    width: max-content;
+    margin-left: -36px;
+    color: aliceblue;
+    margin-top: -2vh;
+    text-align: center;
+}
+.SignUp-Text-Paragraph{
+    font-size: x-large;
+    width: max-content;
+    margin-left: -22px;
+    color: aliceblue;
+    margin-top: -2vh;
+}
+.SignIn-Text-Paragraph{
+    font-size: x-large;
+    width: max-content;
+    margin-left: -22px;
+    color: aliceblue;
+    margin-top: -2vh;
 }

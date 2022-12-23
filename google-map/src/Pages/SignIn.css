@@ -12,15 +12,24 @@
     font-size: larger;
     font-weight: 500;
 }
+.SignUp-Text-Paragraph{
+    font-size: x-large;
+    width: max-content;
+    margin-left: -22px;
+    color: aliceblue;
+    margin-top: -2vh;
+}
 
 #margin-top-button{
   color: white;
-  height: 55px ;
+  height: 45px ;
 }
 #margin-top-button2{
-    color: white;
+color: white;
 border: 1px solid;
-border-radius: 5px ;
+border-radius: 15px;
+margin: auto;
+margin-top: -19px;
 }
 
 .Text{
